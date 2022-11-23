@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">水果机</string>
+    <string name="boss">!</string>
+    <string name="gold">资金:</string>
+    <string name="huode">获取:</string>
+</resources>

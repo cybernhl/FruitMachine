@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:background="@drawable/main_bg">
+	
+	<RelativeLayout android:id="@+id/relativeLayout1" 
+		android:layout_height="wrap_content"
+		android:layout_width="100dip" 
+		android:layout_alignParentBottom="true"
+		android:layout_marginBottom="120dip"
+		android:background="#ffffff"
+		android:layout_centerHorizontal="true">
+		<ProgressBar android:id="@+id/splashProgressBar"
+			style="?android:attr/progressBarStyleSmall"
+			android:layout_height="wrap_content" 
+			android:layout_width="wrap_content" 
+			android:layout_alignParentLeft="true"/>
+		<TextView 
+			android:id="@+id/tv_display_msg"
+			android:textSize="12dip"
+			android:textColor="#000000"
+			android:textStyle="normal"
+            android:text="正在初始化。。"
+			android:typeface="monospace"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_marginLeft="2dip"
+			android:layout_toRightOf="@+id/splashProgressBar"
+			android:layout_alignTop="@+id/splashProgressBar"
+			android:layout_alignBottom="@+id/splashProgressBar"/>
+	</RelativeLayout>
+</RelativeLayout>
