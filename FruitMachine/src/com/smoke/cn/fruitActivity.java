@@ -148,7 +148,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_boss.setText(String.valueOf(Integer.parseInt(input_boss.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.s_77:
@@ -156,7 +156,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_77.setText(String.valueOf(Integer.parseInt(input_77.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.xx:
@@ -164,7 +164,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_xx.setText(String.valueOf(Integer.parseInt(input_xx.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.xg:
@@ -172,7 +172,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_xg.setText(String.valueOf(Integer.parseInt(input_xg.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.ld:
@@ -180,7 +180,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_ld.setText(String.valueOf(Integer.parseInt(input_ld.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.mg:
@@ -188,7 +188,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_mg.setText(String.valueOf(Integer.parseInt(input_mg.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.cz:
@@ -196,7 +196,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_cz.setText(String.valueOf(Integer.parseInt(input_cz.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.pg:
@@ -204,7 +204,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_pg.setText(String.valueOf(Integer.parseInt(input_pg.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		case R.id.pt:
@@ -212,7 +212,7 @@ public class fruitActivity extends Activity implements OnClickListener{
 				mygold.setText(String.valueOf(Integer.parseInt(mygold.getText().toString())-1));
 				input_pt.setText(String.valueOf(Integer.parseInt(input_pt.getText().toString())+1));
 			}else{
-				Toast.makeText(this, "²»ÄÜ³¬¹ı99£¡", Toast.LENGTH_LONG).show();
+				Toast.makeText(this, "ç¥¥å¤”é–‰å¾¹99ã„", Toast.LENGTH_LONG).show();
 			}
 			break;
 		default:
